@@ -4,7 +4,7 @@
 - [App Store](https://apps.apple.com/ca/app/worldwide-ramen-map/id1551605247#?platform=iphone)
 - [Detail (Repository)](https://github.com/korosaka/Ramen_shop_searching)
 - Swift, SwiftUI, Firebase, UserNotification, GoogleMaps
-![Screen shots](https://github.com/korosaka/source_image/blob/main/ramen_map/ramen_map_screenshots.png)
+<img src="https://github.com/korosaka/source_image/blob/main/ramen_map/ramen_map_screenshots.png" width="640px">
 
 ## Android
 ### Baseball Lineup
