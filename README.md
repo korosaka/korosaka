@@ -1,16 +1,19 @@
-### Hi there 👋
+# KORO SAKA Portfolio
+## iOS
+#### Worldwide Ramen Map
+- [App Store](https://apps.apple.com/ca/app/worldwide-ramen-map/id1551605247)
+- [Github Repository](https://github.com/korosaka/Ramen_shop_searching)
+- Swift, SwiftUI, Firebase
+- some screenshots,,,
 
-<!--
-**korosaka/korosaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Android
+#### Baseball Lineup
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
+- [Github Repository](https://github.com/korosaka/baseball_lineup_jp)
+- Java, SQLite, Google Play Billing, Google AdMob
+- some screenshots,,,
+#### Baseball Ability Determination
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.abiityofbaseball)
+- [Github Repository](https://github.com/korosaka/baseball_ability_app)
+- kotlin, SQLite, Google AdMob
+- some screenshots,,,
