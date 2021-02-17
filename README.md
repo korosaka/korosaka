@@ -1,6 +1,6 @@
 # Portfolio
 ## iOS
-### - [Worldwide Ramen Map](https://github.com/korosaka/Ramen_shop_searching)
+### [Worldwide Ramen Map](https://github.com/korosaka/Ramen_shop_searching)
 - [App Store](https://apps.apple.com/ca/app/worldwide-ramen-map/id1551605247#?platform=iphone)
 - Swift, SwiftUI, Firebase, UserNotification, GoogleMaps
 <img src="https://github.com/korosaka/source_image/blob/main/ramen_map/ramen_map_screenshots.png" width="540px">
