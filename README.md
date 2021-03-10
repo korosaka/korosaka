@@ -5,6 +5,10 @@
 - Swift, SwiftUI, Firebase, UserNotification, GoogleMaps
 <img src="https://github.com/korosaka/source_image/blob/main/ramen_map/ramen_map_screenshots.png" width="540px">
 
+### [Baseball Lineup](https://github.com/korosaka/Baseball_Lineup_iOS)
+- [App Store](apple.co/2N1JW3h)
+- Swift, Storyboard, SQLite
+
 ## Android
 ### [Baseball Lineup](https://github.com/korosaka/baseball_lineup_jp)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
