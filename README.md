@@ -6,7 +6,7 @@
 <img src="https://github.com/korosaka/source_image/blob/main/ramen_map/ramen_map_screenshots.png" width="540px">
 
 ### [Baseball Lineup](https://github.com/korosaka/Baseball_Lineup_iOS)
-- [App Store](apple.co/2N1JW3h)
+- [App Store](https://apps.apple.com/ca/app/%E9%87%8E%E7%90%83%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id1557158760#?platform=iphone)
 - Swift, Storyboard, SQLite
 
 ## Android
