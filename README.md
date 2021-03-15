@@ -10,7 +10,8 @@
 - Swift, Storyboard, SQLite
 
 ## Android
-### [Baseball Lineup](https://github.com/korosaka/baseball_lineup_jp)
+### [Baseball Lineup (Japanese)](https://github.com/korosaka/baseball_lineup_jp)
+### [Baseball Lineup (English)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.baseballstartinglineup)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
 - Java, SQLite, Google Play Billing, Google AdMob
 <img src="https://github.com/korosaka/source_image/blob/main/lineup_android/lineup_screenshots.png" width="540px">
