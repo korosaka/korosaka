@@ -1,5 +1,5 @@
 # Portfolio
-## iOS
+# iOS
 ### [Worldwide Ramen Map](https://github.com/korosaka/Ramen_shop_searching)
 - [App Store](https://apps.apple.com/ca/app/worldwide-ramen-map/id1551605247#?platform=iphone)
 - Swift, SwiftUI, Firebase, UserNotification, GoogleMaps
@@ -12,7 +12,7 @@
 
 ---
 
-## Android
+# Android
 ### [Baseball Lineup](https://github.com/korosaka/baseball_lineup_jp)
 - [Google Play Store (Japanese)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
 - [Google Play Store (English)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.baseballstartinglineup)
