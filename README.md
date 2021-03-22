@@ -10,6 +10,8 @@
 - Swift, UIKit, Storyboard, SQLite
 <img src="https://github.com/korosaka/source_image/blob/main/lineup_ios/lineup_screenshots.png" width="540px">
 
+---
+
 ## Android
 ### [Baseball Lineup](https://github.com/korosaka/baseball_lineup_jp)
 - [Google Play Store (Japanese)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
