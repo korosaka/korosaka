@@ -10,6 +10,8 @@
 - Swift, UIKit, Storyboard, SQLite
 <img src="https://github.com/korosaka/source_image/blob/main/lineup_ios/lineup_screenshots.png" width="540px">
 
+### [Country Dictionary](https://github.com/korosaka/CountryDictionary)
+- Swift, SwiftUI, GraphQL API, Apollo iOS
 ---
 
 # Android
