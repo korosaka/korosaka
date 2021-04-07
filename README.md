@@ -12,6 +12,8 @@
 
 ### [Country Dictionary](https://github.com/korosaka/CountryDictionary)
 - Swift, SwiftUI, GraphQL API, Apollo iOS
+<img src="https://github.com/korosaka/source_image/blob/main/country_dictionary/country_dictionary_screenshots.png" width="540px">
+
 ---
 
 # Android
