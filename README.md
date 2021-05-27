@@ -1,4 +1,21 @@
 # Portfolio
+# Android
+### [Wheather App (in development)](https://github.com/korosaka/WeatherAppAndroid)
+- kotlin, LiveData, ViewModel, RecyclerView, RxJava(kotlin), Coroutines, Retrofit(coming soon,,,,)
+
+### [Baseball Lineup](https://github.com/korosaka/baseball_lineup_jp)
+- [Google Play Store (Japanese)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
+- [Google Play Store (English)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.baseballstartinglineup)
+- Java, SQLite, Google Play Billing, Google AdMob
+<img src="https://github.com/korosaka/source_image/blob/main/lineup_android/lineup_screenshots.png" width="540px">
+
+### [Baseball Ability Determination](https://github.com/korosaka/baseball_ability_app)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.abiityofbaseball)
+- kotlin, SQLite, Google AdMob
+<img src="https://github.com/korosaka/source_image/blob/main/ability/ability_screenshots.png" width="540px">
+
+---
+
 # iOS
 ### [Worldwide Ramen Map](https://github.com/korosaka/Ramen_shop_searching)
 - [App Store](https://apps.apple.com/ca/app/worldwide-ramen-map/id1551605247#?platform=iphone)
@@ -14,16 +31,5 @@
 - Swift, SwiftUI, GraphQL API, Apollo iOS
 <img src="https://github.com/korosaka/source_image/blob/main/country_dictionary/country_dictionary_screenshots.png" width="540px">
 
----
 
-# Android
-### [Baseball Lineup](https://github.com/korosaka/baseball_lineup_jp)
-- [Google Play Store (Japanese)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
-- [Google Play Store (English)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.baseballstartinglineup)
-- Java, SQLite, Google Play Billing, Google AdMob
-<img src="https://github.com/korosaka/source_image/blob/main/lineup_android/lineup_screenshots.png" width="540px">
 
-### [Baseball Ability Determination](https://github.com/korosaka/baseball_ability_app)
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.abiityofbaseball)
-- kotlin, SQLite, Google AdMob
-<img src="https://github.com/korosaka/source_image/blob/main/ability/ability_screenshots.png" width="540px">
