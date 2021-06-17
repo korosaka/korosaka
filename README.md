@@ -1,9 +1,11 @@
 # Portfolio
 # Android
+### [The Rick and Morty](https://github.com/korosaka/The-Rick-and-Morty)
+- kotlin, LiveData, ViewModel, Coroutines, Retrofit, RestAPI, RecyclerView
+
 ### [Wheather App](https://github.com/korosaka/WeatherAppAndroid)
 - kotlin, LiveData, ViewModel, RxJava, Coroutines, Retrofit, RestAPI, RecyclerView
 <img src="https://github.com/korosaka/source_image/blob/main/weather_android/weather_app_android.png" width="540px">
-
 
 ### [Baseball Lineup](https://github.com/korosaka/baseball_lineup_jp)
 - [Google Play Store (Japanese)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
