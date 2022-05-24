@@ -1,9 +1,13 @@
 # Professional Projects
 
+## Android
+
 ##### [Stop Motion Video Maker](https://play.google.com/store/apps/details?id=com.lifelapse)
 <img src="https://user-images.githubusercontent.com/40596635/169929706-b9aac5df-8e64-44b7-886f-a4787475bf5e.png" width="150px">
 
 <br>
+
+## Flutter
 
 ##### [Kwote Cohesive Canva Templates](https://play.google.com/store/apps/details?id=com.kwote.app)
 <img src="https://user-images.githubusercontent.com/40596635/169930155-13fcbab1-03f5-4161-b6f3-d00749df50ba.png" width="150px">
@@ -13,8 +17,12 @@
 ##### [Wacha](https://play.google.com/store/apps/details?id=app.wacha)
 <img src="https://user-images.githubusercontent.com/40596635/169932386-2496d606-7f4d-47a0-b0fb-09fa2c140343.png" width="150px">
 
+<br>
+<br>
+<br>
+
 # Personal Projects
-# Android
+## Android
 ### [The Rick and Morty](https://github.com/korosaka/The-Rick-and-Morty)
 - kotlin, LiveData, ViewModel, Coroutines, Retrofit, RestAPI, RecyclerView
 <img src="https://user-images.githubusercontent.com/40596635/169728596-0b9bcbde-c985-4335-be5c-a4790b03b174.png" width="540px">
@@ -30,9 +38,9 @@
 - kotlin, SQLite, Google AdMob
 <img src="https://github.com/korosaka/source_image/blob/main/ability/ability_screenshots.png" width="540px">
 
----
+<br>
 
-# iOS
+## iOS
 ### [Worldwide Ramen Map](https://github.com/korosaka/Ramen_shop_searching)
 - [App Store](https://apps.apple.com/ca/app/worldwide-ramen-map/id1551605247#?platform=iphone)
 - Swift, SwiftUI, Firebase, UserNotification, GoogleMaps
