@@ -8,7 +8,10 @@
 ##### [Kwote Cohesive Canva Templates](https://play.google.com/store/apps/details?id=com.kwote.app)
 <img src="https://user-images.githubusercontent.com/40596635/169930155-13fcbab1-03f5-4161-b6f3-d00749df50ba.png" width="150px">
 
+<br>
 
+##### [Wacha](https://play.google.com/store/apps/details?id=app.wacha)
+<img src="https://user-images.githubusercontent.com/40596635/169932386-2496d606-7f4d-47a0-b0fb-09fa2c140343.png" width="150px">
 
 # Personal Projects
 # Android
