@@ -1,3 +1,11 @@
+# Skills
+- Languages: kotlin, Java, Dart, Swift, JavaScript
+- Frameworks: Flutter, SwiftUI, UIKit, React Native
+- Libraries: Google Play Billing, in_app_purchase, Sqlite, LiveData, RxJava, Coroutines, Retrofit
+- Others: Android, iOS, Firebase, REST API, GraphQL API, Git/Github
+
+<br>
+
 # Professional Projects
 
 ## Android
