@@ -3,6 +3,7 @@
 - Android/Java,kotlin: 2.5years
 - Flutter/Dart: 1year
 - ReactNative/TypeScript: 6months
+- More Detail: [LinkedIn](https://www.linkedin.com/in/koro-saka-05a2861a9/)
 
 <br>
 
