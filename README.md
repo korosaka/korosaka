@@ -8,6 +8,13 @@
 
 # Professional Projects
 
+## iOS
+
+##### [Fox News](https://apps.apple.com/jp/app/fox-news-us-world-headlines/id367623543)
+<img src="https://user-images.githubusercontent.com/40596635/169929706-b9aac5df-8e64-44b7-886f-a4787475bf5e.png" width="150px">
+
+<br>
+
 ## Android
 
 ##### [Stop Motion Video Maker](https://play.google.com/store/apps/details?id=com.lifelapse)
