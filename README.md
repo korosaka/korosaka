@@ -1,3 +1,11 @@
+# Experience (Since 2018)
+- iOS/Swift: 2years
+- Android/Java,kotlin: 2.5years
+- Flutter/Dart: 1year
+- ReactNative/TypeScript: 6months
+
+<br>
+
 # Skills
 - Languages: Swift, kotlin, Java, Dart, JavaScript
 - Frameworks: SwiftUI, UIKit, Flutter, React Native
