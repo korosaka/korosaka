@@ -1,6 +1,6 @@
 # Experience (Since 2018)
 - iOS/Swift: 2years
-- Android/Java,kotlin: 2.5years
+- Android/Java,kotlin: 3years
 - Flutter/Dart: 3year
 - ReactNative/TypeScript: 6months
 - More Detail: [LinkedIn](https://www.linkedin.com/in/koro-saka-05a2861a9/)
