@@ -1,6 +1,6 @@
 # 実務経験 (2018年〜)
 - iOS/Swift: 2年
-- Android/Java,kotlin: 3年
+- Android/Java,Kotlin: 3年
 - Flutter/Dart: 3年
 - ReactNative/TypeScript: 0.5年
 - More Detail: [LinkedIn](https://www.linkedin.com/in/koro-saka-05a2861a9/)
@@ -10,7 +10,7 @@
 # スキル
 - Languages: Swift, kotlin, Java, Dart, JavaScript
 - Frameworks: SwiftUI, UIKit, Flutter, React Native
-- Libraries: StoreKit, Google Play Billing, in_app_purchase, Sqlite, LiveData, RxJava, Coroutines, Retrofit
+- Libraries: StoreKit, Google Play Billing, in_app_purchase, SQLite, LiveData, RxJava, Coroutines, Retrofit
 - Others: iOS, Android, Firebase, REST API, GraphQL API, Git/Github
 
 <br>
@@ -82,7 +82,7 @@
 - [App Store](https://apps.apple.com/jp/app/%E5%88%A9%E5%9B%9E%E3%82%8A%E8%A8%88%E7%AE%97/id6744841458)
 - Dart, SQLite, Google AdMob
 
-### [野球能力診断](https://github.com/korosaka/Yield_Calculation) ※プライベートリポジトリ(詳細はApp Store)
+### [野球能力診断](https://github.com/korosaka/baseball_ability_flutter_app) ※プライベートリポジトリ(詳細はApp Store)
 - [App Store](https://apps.apple.com/jp/app/%E9%87%8E%E7%90%83%E8%83%BD%E5%8A%9B%E8%A8%BA%E6%96%AD/id6837838435)
 - Dart, SQLite
 <br>
