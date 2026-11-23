@@ -15,7 +15,7 @@
 
 <br>
 
-# 実務プロジェクト例
+# 実務プロジェクト
 
 ## iOSネイティブ
 
@@ -42,7 +42,7 @@
 
 # 個人開発アプリ
 ## iOSネイティブ
-### [野球スタメン作成アプリ](https://github.com/korosaka/Baseball_Lineup_iOS) ※プライベートリポジトリ
+### [野球スタメン作成アプリ](https://github.com/korosaka/Baseball_Lineup_iOS) ※プライベートリポジトリ(詳細はApp Store)
 - [App Store](https://apps.apple.com/ca/app/%E9%87%8E%E7%90%83%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id1557158760#?platform=iphone)
 - Swift, UIKit, StoreKit, SQLite, Google AdMob
 <img src="https://github.com/user-attachments/assets/24ee4000-9a46-48c5-9e91-3ec11c8c4f0d" width="540px">
@@ -61,13 +61,13 @@
 <br>
 
 ## Androidネイティブ
-### [野球スタメン作成アプリ](https://github.com/korosaka/baseball_lineup_jp) ※プライベートリポジトリ
+### [野球スタメン作成アプリ](https://github.com/korosaka/baseball_lineup_jp) ※プライベートリポジトリ(詳細はGoogle Play Store)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
 - Java, SQLite, Google Play Billing, Google AdMob
 <img src="https://github.com/user-attachments/assets/68f1159d-5ae7-4eeb-8828-d1858b059aad" width="540px">
 <br>
 
-### [野球能力診断アプリ](https://github.com/korosaka/baseball_ability_app) ※プライベートリポジトリ
+### [野球能力診断アプリ](https://github.com/korosaka/baseball_ability_app) ※プライベートリポジトリ(詳細はGoogle Play Store)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.abiityofbaseball)
 - kotlin, SQLite, Google AdMob
 <img src="https://github.com/korosaka/source_image/blob/main/ability/ability_screenshots.png" width="540px">
@@ -78,7 +78,11 @@
 <br>
 
 ## Flutter
-### [利回り計算](https://github.com/korosaka/Yield_Calculation) ※プライベートリポジトリ
+### [利回り計算](https://github.com/korosaka/Yield_Calculation) ※プライベートリポジトリ(詳細はApp Store)
 - [App Store](https://apps.apple.com/jp/app/%E5%88%A9%E5%9B%9E%E3%82%8A%E8%A8%88%E7%AE%97/id6744841458)
 - Dart, SQLite, Google AdMob
+
+### [野球能力診断](https://github.com/korosaka/Yield_Calculation) ※プライベートリポジトリ(詳細はApp Store)
+- [App Store](https://apps.apple.com/jp/app/%E9%87%8E%E7%90%83%E8%83%BD%E5%8A%9B%E8%A8%BA%E6%96%AD/id6837838435)
+- Dart, SQLite
 <br>
