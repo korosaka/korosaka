@@ -1,8 +1,8 @@
 # 実務経験 (2018年〜)
-- iOS/Swift: 2years
-- Android/Java,kotlin: 3years
-- Flutter/Dart: 3year
-- ReactNative/TypeScript: 6months
+- iOS/Swift: 2年
+- Android/Java,kotlin: 3年
+- Flutter/Dart: 3年
+- ReactNative/TypeScript: 0.5年
 - More Detail: [LinkedIn](https://www.linkedin.com/in/koro-saka-05a2861a9/)
 
 <br>
