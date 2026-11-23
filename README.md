@@ -1,4 +1,4 @@
-# Experience (Since 2018)
+# 実務経験 (2018年〜)
 - iOS/Swift: 2years
 - Android/Java,kotlin: 3years
 - Flutter/Dart: 3year
@@ -7,7 +7,7 @@
 
 <br>
 
-# Skills
+# スキル
 - Languages: Swift, kotlin, Java, Dart, JavaScript
 - Frameworks: SwiftUI, UIKit, Flutter, React Native
 - Libraries: StoreKit, Google Play Billing, in_app_purchase, Sqlite, LiveData, RxJava, Coroutines, Retrofit
@@ -15,16 +15,16 @@
 
 <br>
 
-# Professional Projects
+# 実務プロジェクト例
 
-## iOS
+## iOSネイティブ
 
 ##### [Fox News](https://apps.apple.com/jp/app/fox-news-us-world-headlines/id367623543)
 <img src="https://github.com/user-attachments/assets/4af4f015-f9e9-4dc4-9c45-be464586ffb4" width="150px">
 
 <br>
 
-## Android
+## Androidネイティブ
 
 ##### [Stop Motion Video Maker](https://play.google.com/store/apps/details?id=com.lifelapse)
 <img src="https://user-images.githubusercontent.com/40596635/169929706-b9aac5df-8e64-44b7-886f-a4787475bf5e.png" width="150px">
@@ -45,8 +45,8 @@
 <br>
 <br>
 
-# Personal Projects
-## iOS
+# 個人開発アプリ
+## iOSネイティブ
 ### [野球スタメン作成アプリ](https://github.com/korosaka/Baseball_Lineup_iOS)
 - [App Store](https://apps.apple.com/ca/app/%E9%87%8E%E7%90%83%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id1557158760#?platform=iphone)
 - Swift, UIKit, StoreKit, SQLite, Google AdMob
@@ -66,9 +66,9 @@
 <br>
 <br>
 
-## Android
+## Androidネイティブ
 ### [野球スタメン作成アプリ](https://github.com/korosaka/baseball_lineup_jp)
-- [Google Play Store (Japanese)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
 - Java, SQLite, Google Play Billing, Google AdMob
 <img src="https://github.com/user-attachments/assets/68f1159d-5ae7-4eeb-8828-d1858b059aad" width="540px">
 <br>
@@ -83,4 +83,8 @@
 <img src="https://user-images.githubusercontent.com/40596635/169728596-0b9bcbde-c985-4335-be5c-a4790b03b174.png" width="540px">
 <br>
 
-
+## Flutter
+### [利回り計算](https://github.com/korosaka/Yield_Calculation)
+- [App Store](https://apps.apple.com/jp/app/%E5%88%A9%E5%9B%9E%E3%82%8A%E8%A8%88%E7%AE%97/id6744841458)
+- Dart, SQLite, Google AdMob
+<br>
