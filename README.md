@@ -156,9 +156,9 @@ iOS・Android(ネイティブ)・Flutter の3つすべてで実務経験のあ�
 
 | アプリ | 技術 |
 |:--|:--|
-| [Worldwide Ramen Map](https://github.com/korosaka/Ramen_shop_searching)(iOS) | `Swift` `SwiftUI` `Firebase` `UserNotifications` `Google Maps` |
-| [Country Dictionary](https://github.com/korosaka/CountryDictionary)(iOS) | `Swift` `SwiftUI` `GraphQL` `Apollo iOS` |
-| [The Rick and Morty](https://github.com/korosaka/The-Rick-and-Morty)(Android) | `Kotlin` `ViewModel` `LiveData` `Coroutines` `Retrofit` `REST API` |
+| [Worldwide Ramen Map](https://github.com/korosaka/Ramen_shop_searching)(iOS) | `Swift` `SwiftUI` `Firebase` `UserNotifications` `Google Maps` `MVVM` |
+| [Country Dictionary](https://github.com/korosaka/CountryDictionary)(iOS) | `Swift` `SwiftUI` `GraphQL` `Apollo iOS`  `MVVM` |
+| [The Rick and Morty](https://github.com/korosaka/The-Rick-and-Morty)(Android) | `Kotlin` `ViewModel` `LiveData` `Coroutines` `Retrofit` `REST API`  `MVVM` |
 
 <details>
 <summary>スクリーンショットを見る</summary>
