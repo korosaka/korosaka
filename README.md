@@ -125,7 +125,7 @@ iOS・Android(ネイティブ)・Flutter の3つすべてで実務経験のあ�
 ### ⚾ 野球スタメン作成アプリ(iOS / Android)
 **Android版 2018年リリース / iOS版 2021年リリース ・ 両OS合計4万DL以上 ・ 評価★4.3 ・ クラッシュ率0%台を維持**
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/ca/app/%E9%87%8E%E7%90%83%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3%E4%BD%9C%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id1557158760#?platform=iphone)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/jp/app/%E9%87%8E%E7%90%83%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3-%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC-%E6%89%93%E9%A0%86%E4%BD%9C%E6%88%90/id1557158760)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.dasenapp)
 
 - **iOS**:`Swift` `UIKit` `StoreKit` `SQLite` `Google AdMob`([リポジトリ](https://github.com/korosaka/Baseball_Lineup_iOS) ※非公開)
