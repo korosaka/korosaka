@@ -122,7 +122,7 @@ iOS・Android(ネイティブ)・Flutter の3つすべてで実務経験のあ�
 
 ## 🚀 個人開発アプリ(ストア公開中)
 
-### ⚾ 野球スタメン作成アプリ(iOS / Android)
+### ⚾ 野球スタメン作成(iOS / Android)
 **Android版 2018年リリース / iOS版 2021年リリース ・ 両OS合計4万DL以上 ・ 評価★4.3 ・ クラッシュ率0%台を維持**
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/jp/app/%E9%87%8E%E7%90%83%E3%82%B9%E3%82%BF%E3%83%A1%E3%83%B3-%E3%82%AA%E3%83%BC%E3%83%80%E3%83%BC-%E6%89%93%E9%A0%86%E4%BD%9C%E6%88%90/id1557158760)
@@ -134,7 +134,7 @@ iOS・Android(ネイティブ)・Flutter の3つすべてで実務経験のあ�
 <img src="https://github.com/user-attachments/assets/24ee4000-9a46-48c5-9e91-3ec11c8c4f0d" width="540px">
 <img src="https://github.com/user-attachments/assets/68f1159d-5ae7-4eeb-8828-d1858b059aad" width="540px">
 
-### 💪 野球能力診断アプリ(iOS / Android)
+### 💪 野球能力診断(iOS / Android)
 
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/jp/app/%E9%87%8E%E7%90%83%E8%83%BD%E5%8A%9B%E8%A8%BA%E6%96%AD/id6837838435)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.websarva.wings.android.abiityofbaseball)
